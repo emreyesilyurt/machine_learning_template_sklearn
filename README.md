@@ -1,5 +1,19 @@
-This template is a simple data preprocessing processes template widely used in machine learning algorithms.
+This template contains supervised and unsupervised algorithms that can be used in simple machine learning.
 
-You need to organize the parameters and directories in the code according to your own dataset.
+# What is Machine Learning?
 
-It is about how much to divide the test_size parameter in the partition section for your exercise and test. You can change it according to your dataset or train with all your data and test with unique values without dividing a train as a test. (Pay attention to the overfitting situation.)
+Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.
+
+Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
+
+Example: playing checkers.
+
+E = the experience of playing many games of checkers
+
+T = the task of playing checkers.
+
+P = the probability that the program will win the next game.
+
+In general, any machine learning problem can be assigned to one of two broad classifications:
+
+Supervised learning and Unsupervised learning.
