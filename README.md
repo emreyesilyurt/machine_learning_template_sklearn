@@ -1,5 +1,4 @@
-This template contains supervised and unsupervised algorithms that can be used in simple machine learning.
-
+![alt-text](https://github.com/emreyesilyurt/machine_learning_template_sklearn/blob/master/images/1.jpg?raw=true)
 # What is Machine Learning?
 
 Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.
