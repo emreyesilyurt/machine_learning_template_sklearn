@@ -17,6 +17,8 @@ In general, any machine learning problem can be assigned to one of two broad cla
 
 Supervised learning and Unsupervised learning.
 
+![alt-text](https://github.com/emreyesilyurt/machine_learning_template_sklearn/blob/master/images/2.png?raw=true)
+
 # Supervised Learning
 
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
