@@ -1,5 +1,5 @@
 ![alt-text](https://github.com/emreyesilyurt/machine_learning_template_sklearn/blob/master/images/1.jpg?raw=true)
-Türkçe detaylı metin [Medium](https://medium.com/@emreyesilyurt/makine-%C3%B6%C4%9Frenmesi-%C3%B6%C4%9Frenme-paradigmalar%C4%B1-3c9736b3aa19)
+##### Türkçe detaylı metin [Medium](https://medium.com/@emreyesilyurt/makine-%C3%B6%C4%9Frenmesi-%C3%B6%C4%9Frenme-paradigmalar%C4%B1-3c9736b3aa19)
 
 
 # What is Machine Learning?
